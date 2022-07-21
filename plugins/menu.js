@@ -179,7 +179,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'                『 JAROT OFC 』',
+                            hydratedFooterText:'                『 RAKA OFC 』',
                             hydratedButtons: [{
                               urlButton: {
                                     displayText: 'GROUP',
